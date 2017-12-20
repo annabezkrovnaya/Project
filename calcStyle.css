@@ -4,6 +4,7 @@
    padding: 0;
    margin: 0;
 }
+
 body {
    margin: 0 auto;
    width: 1300px;
@@ -153,7 +154,7 @@ li.technologies {
 
 .technologies:hover > ul {
    position: absolute;
-   display: inline-block;
+   display: block;
    background-color: white;
    border: 2px solid black;
    border-radius: 5px;
